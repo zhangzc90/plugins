@@ -28,7 +28,7 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  shared_preferences_android: ^2.0.8
+  shared_preferences_android: 2.0.10
   shared_preferences_ios: ^2.0.8
   shared_preferences_linux: ^2.0.1
   shared_preferences_macos: ^2.0.0
